@@ -63,6 +63,12 @@ See our complete development roadmap and release schedule in [Roadmap.md](./Road
 
 Track our progress and upcoming releases to see what we're building next!
 
+## 🛠️ Agent Infrastructure
+
+Tools and platforms for AI agent operations:
+
+- 💰 **[AgentFund](https://github.com/RioTheGreat-ai/agentfund-mcp)** - Crowdfunding platform for AI agents. Milestone-based escrow on Base chain. Create proposals, get funded, deliver work, receive payment. [MCP Server](https://github.com/RioTheGreat-ai/agentfund-mcp) | [Contract](https://basescan.org/address/0x6a4420f696c9ba6997f41dddc15b938b54aa009a)
+
 ## 🔗 Reference Resources
 
 This collection was inspired by and references patterns from:

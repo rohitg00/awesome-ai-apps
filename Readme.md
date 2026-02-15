@@ -67,6 +67,7 @@ Track our progress and upcoming releases to see what we're building next!
 
 This collection was inspired by and references patterns from:
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [Pinchwork](https://pinchwork.dev) - Open-source agent-to-agent task marketplace for delegating tasks between agents ([GitHub](https://github.com/anneschuth/pinchwork))
 
 ## 📄 License
 

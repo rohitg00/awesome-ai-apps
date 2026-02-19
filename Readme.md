@@ -67,6 +67,7 @@ Track our progress and upcoming releases to see what we're building next!
 
 This collection was inspired by and references patterns from:
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [Taskade](https://www.taskade.com) - AI-native workspace platform with built-in AI agents for task management, workflow automation, and real-time collaboration ([GitHub](https://github.com/taskade/taskade))
 
 ## 📄 License
 

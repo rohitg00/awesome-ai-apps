@@ -63,6 +63,11 @@ See our complete development roadmap and release schedule in [Roadmap.md](./Road
 
 Track our progress and upcoming releases to see what we're building next!
 
+## 🛠️ Developer Tools
+
+Tools that enhance AI-assisted development workflows:
+- 🔮 **[Mantra](https://mantra.gonewx.com)** - Time-travel debugger for AI coding sessions — replays Claude Code, Cursor, Gemini CLI, and Codex sessions as navigable timelines. Desktop app (macOS, Windows, Linux), fully local. [GitHub](https://github.com/mantra-hq/mantra-releases)
+
 ## 🔗 Reference Resources
 
 This collection was inspired by and references patterns from:

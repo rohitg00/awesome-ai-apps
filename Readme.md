@@ -31,7 +31,6 @@ Simple, single-purpose AI agents perfect for learning and quick implementations:
 Sophisticated AI agents with complex reasoning and multi-step workflows:
 - <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> **[Brand Video Monitor](./advanced-agents/brand-video-monitor/)** - Brand video monitoring and analysis
 - <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> **[Blog Video Writer](./advanced-agents/blog-video-writer/)** - Generate blog posts from videos with multi-agent pipeline
-- 🔮 **[Mantra](https://mantra.gonewx.com)** - Time-travel debugger for AI coding sessions — replays Claude Code, Cursor, Gemini CLI, and Codex sessions as navigable timelines. Desktop app (macOS, Windows, Linux), fully local. [GitHub](https://github.com/mantra-hq/mantra-releases)
 
 ### 👥 [Multi-Agent Teams](./multi-agent-teams/)
 Coordinated AI teams working together on complex tasks:
@@ -63,6 +62,11 @@ See our complete development roadmap and release schedule in [Roadmap.md](./Road
 - 🚀 Future expansion into enterprise solutions and community ecosystem (Q4 2025)
 
 Track our progress and upcoming releases to see what we're building next!
+
+## 🛠️ Developer Tools
+
+Tools that enhance AI-assisted development workflows:
+- 🔮 **[Mantra](https://mantra.gonewx.com)** - Time-travel debugger for AI coding sessions — replays Claude Code, Cursor, Gemini CLI, and Codex sessions as navigable timelines. Desktop app (macOS, Windows, Linux), fully local. [GitHub](https://github.com/mantra-hq/mantra-releases)
 
 ## 🔗 Reference Resources
 

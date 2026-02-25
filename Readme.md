@@ -65,8 +65,10 @@ Track our progress and upcoming releases to see what we're building next!
 
 ## 🔗 Reference Resources
 
+
 This collection was inspired by and references patterns from:
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [Agent Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agents internet access in 30 seconds. Scaffolding tool supporting 9+ platforms (Twitter, YouTube, Reddit, Bilibili, Xiaohongshu, GitHub, RSS, Web, Exa). Works with Claude Code, OpenClaw, Cursor, Windsurf.
 
 ## 📄 License
 

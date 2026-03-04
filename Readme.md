@@ -26,6 +26,7 @@ Simple, single-purpose AI agents perfect for learning and quick implementations:
 - <img src="https://cdn.simpleicons.org/openai" alt="OpenAI logo" width="20" height="20"> **[OpenAI Chat Assistant](./starter-agents/openai-chat-assistant/)** - Chat assistant using OpenAI API
 - <img src="https://zorgle.co.uk/wp-content/uploads/2024/11/Claude-ai-logo.png" alt="Anthropic Claude logo" width="20" height="20"> **[Claude Code Reviewer](./starter-agents/claude-code-reviewer/)** - Code reviewer using Claude Sonnet 4
 - <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/together-color.png" alt="Together AI logo" width="20" height="20"> **[Streaming Response Chat Bot](./starter-agents/together-ai-chat/)** - Real-time chatbot with Together AI streaming responses
+- <img src="https://cdn.simpleicons.org/openai" alt="OpenAI logo" width="20" height="20"> **[Crypto Portfolio Tracker](./starter-agents/crypto-portfolio-tracker/)** - Real-time crypto portfolio tracking with AI analysis
 
 ### 🧠 [Advanced Agents](./advanced-agents/)
 Sophisticated AI agents with complex reasoning and multi-step workflows:

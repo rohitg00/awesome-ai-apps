@@ -31,6 +31,7 @@ Simple, single-purpose AI agents perfect for learning and quick implementations:
 Sophisticated AI agents with complex reasoning and multi-step workflows:
 - <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> **[Brand Video Monitor](./advanced-agents/brand-video-monitor/)** - Brand video monitoring and analysis
 - <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> **[Blog Video Writer](./advanced-agents/blog-video-writer/)** - Generate blog posts from videos with multi-agent pipeline
+- 🐾 **[OpenPaw](https://github.com/daxaur/openpaw)** - Personal assistant wizard for Claude Code with 39 skills including focus mode, task dashboard, smart home, email, and more. No cloud, no daemon
 
 ### 👥 [Multi-Agent Teams](./multi-agent-teams/)
 Coordinated AI teams working together on complex tasks:

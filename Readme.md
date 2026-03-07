@@ -12,6 +12,7 @@ This repository contains **complete AI applications** organized into 5 main cate
 - **🧠 [Advanced Agents](./advanced-agents/)**: Complex AI agents with sophisticated workflows  
 - **👥 [Multi-Agent Teams](./multi-agent-teams/)**: Collaborative AI systems with specialized agents
 - **📚 [RAG Applications](./rag-applications/)**: Retrieval-Augmented Generation with knowledge bases
+- **🛠 [RAG Tools & Debugging](#-rag-tools--debugging)**: Tools and frameworks for diagnosing and improving RAG pipelines
 - **🎨 [Multimodal Apps](./multimodal-apps/)**: Applications combining text, images, audio, and video
 
 ## 🚀 Featured Categories
@@ -42,6 +43,10 @@ RAG applications with knowledge bases:
 - <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> **[Content Management System](./rag-applications/content-management-system/)** - Intelligent RAG-powered content management
 - <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> **[Competitive Intelligence Platform](./rag-applications/competitive-intelligence-platform/)** - Market & competitor insights with RAG
 - <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> **[Corrective Video RAG](./rag-applications/corrective-video-rag/)** - Video analysis with three-tier evaluation and corrective strategies
+
+### 🛠 [RAG Tools & Debugging](#-rag-tools--debugging)
+Tools and frameworks for diagnosing and improving RAG pipelines.
+- <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> **[WFGY Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)** - Framework for diagnosing RAG and LLM pipeline failures
 
 ### 🎨 [Multimodal Apps](./multimodal-apps/)
 Applications combining text, images, audio, and video:

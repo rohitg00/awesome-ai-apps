@@ -6,13 +6,14 @@ A curated collection of **practical AI agents** and generative AI applications b
 
 ## 📊 Collection Overview
 
-This repository contains **complete AI applications** organized into 5 main categories:
+This repository contains **complete AI applications** organized into 6 main categories:
 
 - **🎯 [Starter Agents](./starter-agents/)**: Simple, single-purpose AI agents
 - **🧠 [Advanced Agents](./advanced-agents/)**: Complex AI agents with sophisticated workflows  
 - **👥 [Multi-Agent Teams](./multi-agent-teams/)**: Collaborative AI systems with specialized agents
 - **📚 [RAG Applications](./rag-applications/)**: Retrieval-Augmented Generation with knowledge bases
 - **🎨 [Multimodal Apps](./multimodal-apps/)**: Applications combining text, images, audio, and video
+- 🔌 **MCP Servers** - MCP protocol servers for AI agent integration
 
 ## 🚀 Featured Categories
 
@@ -51,15 +52,21 @@ Applications combining text, images, audio, and video:
 - 🎭 **[Hedra Live Avatars Demo](./multimodal-apps/hedra-live-avatars-demo/)** - Live avatar chat and video generation with Hedra API
 - 💕 **[Talk to AI Girlfriend](./multimodal-apps/talk-to-ai-girlfriend/)** - Interactive AI girlfriend with live avatar, voice, and real-time conversation
 
+
+### 🔌 MCP Servers
+MCP (Model Context Protocol) servers for AI agent integration:
+- 📚 **[BGPT MCP](https://github.com/connerlambden/bgpt-mcp)** - Hosted MCP server for searching scientific papers with full-text experimental data
+
+
 # 🗓️ [Development Roadmap](./Roadmap.md)
 
 See our complete development roadmap and release schedule in [Roadmap.md](./Roadmap.md), which outlines:
 
 - 📅 Daily releases started
-- 🎯 Target of 100+ complete applications by end of 2025
-- 📈 Organized development across 5 strategic categories
+- 🎯 Target of 100+ complete applications
+- 📈 Organized development across 6 strategic categories
 - 🏗️ Detailed week-by-week implementation plans
-- 🚀 Future expansion into enterprise solutions and community ecosystem (Q4 2025)
+- 🚀 Future expansion into enterprise solutions and community ecosystem
 
 Track our progress and upcoming releases to see what we're building next!
 

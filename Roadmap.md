@@ -223,6 +223,7 @@ This ambitious project will deliver **100+ complete AI applications** organized 
 - **LangChain + Vector DBs** - Advanced RAG systems
 - **CrewAI + Multi-Agents** - Team coordination
 - **AutoGen + Function Calling** - Sophisticated workflows
+- **OpenSymbolicAI + MultiAgents** - Advance PlanAndExecute framework 
 
 **Phase 3**: Full-Stack Solutions
 - **React + Vite + AI APIs** - Modern web applications

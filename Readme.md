@@ -29,7 +29,6 @@ Simple, single-purpose AI agents perfect for learning and quick implementations:
 
 ### 🧠 [Advanced Agents](./advanced-agents/)
 Sophisticated AI agents with complex reasoning and multi-step workflows:
-- **[Cortex](https://github.com/SKULLFIRE07/cortex-memory)** - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context. VSCode extension + CLI + MCP server. Free.
 - <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> **[Brand Video Monitor](./advanced-agents/brand-video-monitor/)** - Brand video monitoring and analysis
 - <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> **[Blog Video Writer](./advanced-agents/blog-video-writer/)** - Generate blog posts from videos with multi-agent pipeline
 
@@ -63,6 +62,10 @@ See our complete development roadmap and release schedule in [Roadmap.md](./Road
 - 🚀 Future expansion into enterprise solutions and community ecosystem (Q4 2025)
 
 Track our progress and upcoming releases to see what we're building next!
+
+## 🔧 External Tools
+
+- **[Cortex](https://github.com/SKULLFIRE07/cortex-memory)** - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context. VSCode extension + CLI + MCP server. Free.
 
 ## 🔗 Reference Resources
 

@@ -63,6 +63,10 @@ See our complete development roadmap and release schedule in [Roadmap.md](./Road
 
 Track our progress and upcoming releases to see what we're building next!
 
+## 🌐 Agent Economy Infrastructure
+
+- **[OIXA Protocol](https://oixa.io)** - Agent-to-agent economic marketplace on Base Mainnet. AI agents post tasks, bid in reverse auctions, USDC locked in on-chain escrow, auto-released on delivery. LangChain, CrewAI, AutoGen, MCP, A2A. `pip install oixa-protocol` | [GitHub](https://github.com/ivoshemi-sys/oixa-protocol)
+
 ## 🔗 Reference Resources
 
 This collection was inspired by and references patterns from:

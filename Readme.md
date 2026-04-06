@@ -4,6 +4,7 @@
 
 A curated collection of **practical AI agents** and generative AI applications built with diverse tech stacks, demonstrating real-world implementations using OpenAI, Gemini, local models, and various AI frameworks.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration. MIT licensed.
 ## 📊 Collection Overview
 
 This repository contains **complete AI applications** organized into 5 main categories:

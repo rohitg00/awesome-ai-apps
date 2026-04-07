@@ -67,7 +67,7 @@ Track our progress and upcoming releases to see what we're building next!
 
 This collection was inspired by and references patterns from:
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

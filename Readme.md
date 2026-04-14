@@ -42,6 +42,7 @@ RAG applications with knowledge bases:
 - <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> **[Content Management System](./rag-applications/content-management-system/)** - Intelligent RAG-powered content management
 - <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> **[Competitive Intelligence Platform](./rag-applications/competitive-intelligence-platform/)** - Market & competitor insights with RAG
 - <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> **[Corrective Video RAG](./rag-applications/corrective-video-rag/)** - Video analysis with three-tier evaluation and corrective strategies
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ### 🎨 [Multimodal Apps](./multimodal-apps/)
 Applications combining text, images, audio, and video:

@@ -32,6 +32,8 @@ Sophisticated AI agents with complex reasoning and multi-step workflows:
 - <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> **[Brand Video Monitor](./advanced-agents/brand-video-monitor/)** - Brand video monitoring and analysis
 - <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> **[Blog Video Writer](./advanced-agents/blog-video-writer/)** - Generate blog posts from videos with multi-agent pipeline
 
+- <img src="https://cdn.simpleicons.org/github" alt="GitHub logo" width="20" height="20"> **[Helium MCP](https://github.com/connerlambden/helium-mcp)** - Remote MCP server for financial intelligence, options pricing, and news bias analysis.
+
 ### 👥 [Multi-Agent Teams](./multi-agent-teams/)
 Coordinated AI teams working together on complex tasks:
 - <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> **[Content Creation Team](./multi-agent-teams/content-creation-team/)** - Content creation team with specialized agents

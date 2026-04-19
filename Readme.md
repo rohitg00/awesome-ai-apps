@@ -51,6 +51,11 @@ Applications combining text, images, audio, and video:
 - 🎭 **[Hedra Live Avatars Demo](./multimodal-apps/hedra-live-avatars-demo/)** - Live avatar chat and video generation with Hedra API
 - 💕 **[Talk to AI Girlfriend](./multimodal-apps/talk-to-ai-girlfriend/)** - Interactive AI girlfriend with live avatar, voice, and real-time conversation
 
+### 🤖 [AI Agent Tools](./)
+Open-source AI agent enhancement tools:
+- 🧠 **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory, genetic algorithm self-evolution, predictive bug detection, and swarm intelligence
+- 🔧 **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard and one-click install
+
 # 🗓️ [Development Roadmap](./Roadmap.md)
 
 See our complete development roadmap and release schedule in [Roadmap.md](./Roadmap.md), which outlines:

@@ -27,7 +27,7 @@ Simple, single-purpose AI agents perfect for learning and quick implementations:
 - <img src="https://zorgle.co.uk/wp-content/uploads/2024/11/Claude-ai-logo.png" alt="Anthropic Claude logo" width="20" height="20"> **[Claude Code Reviewer](./starter-agents/claude-code-reviewer/)** - Code reviewer using Claude Sonnet 4
 - <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/together-color.png" alt="Together AI logo" width="20" height="20"> **[Streaming Response Chat Bot](./starter-agents/together-ai-chat/)** - Real-time chatbot with Together AI streaming responses
 
-- **[Uni-CLI](https://github.com/olo-dot-io/Uni-CLI)** - Universal CLI for AI agents with 756 commands across 167 sites (web, desktop, Electron). Self-repairing YAML adapters, auto-JSON output, ~80 tokens per call
+- **[Uni-CLI](https://github.com/olo-dot-io/Uni-CLI)** - Universal CLI for AI agents with 1,458 commands across 238 sites (web, desktop, Electron). Self-repairing YAML adapters with structured error envelopes; per-call token budget published in [`docs/BENCHMARK.md`](https://github.com/olo-dot-io/Uni-CLI/blob/main/docs/BENCHMARK.md)
 
 ### 🧠 [Advanced Agents](./advanced-agents/)
 Sophisticated AI agents with complex reasoning and multi-step workflows:

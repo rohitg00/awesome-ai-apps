@@ -67,6 +67,7 @@ Track our progress and upcoming releases to see what we're building next!
 
 This collection was inspired by and references patterns from:
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - Trust scoring MCP server for AI agents on Solana. Verify agent wallet identity before x402 micropayments. 4 free tools + paid signed trust receipts. Remote streamable-http MCP. `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## 📄 License
 

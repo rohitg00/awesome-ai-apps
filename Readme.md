@@ -42,6 +42,7 @@ RAG applications with knowledge bases:
 - <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> **[Content Management System](./rag-applications/content-management-system/)** - Intelligent RAG-powered content management
 - <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> **[Competitive Intelligence Platform](./rag-applications/competitive-intelligence-platform/)** - Market & competitor insights with RAG
 - <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> **[Corrective Video RAG](./rag-applications/corrective-video-rag/)** - Video analysis with three-tier evaluation and corrective strategies
+- <img src="https://remio.ai/favicon.ico" alt="Remio logo" width="20" height="20"> **[Remio Personal Knowledge Agent](./rag-applications/remio-personal-knowledge-agent/)** - Remio-powered local-first personal knowledge RAG
 
 ### 🎨 [Multimodal Apps](./multimodal-apps/)
 Applications combining text, images, audio, and video:

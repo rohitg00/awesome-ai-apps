@@ -67,7 +67,7 @@ Track our progress and upcoming releases to see what we're building next!
 
 This collection was inspired by and references patterns from:
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
+- [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 
 ## 📄 License
 

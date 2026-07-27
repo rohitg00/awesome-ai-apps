@@ -66,6 +66,7 @@ Track our progress and upcoming releases to see what we're building next!
 ## 🔗 Reference Resources
 
 This collection was inspired by and references patterns from:
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
 ## 📄 License

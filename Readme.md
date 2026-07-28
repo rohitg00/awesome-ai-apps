@@ -50,6 +50,7 @@ Applications combining text, images, audio, and video:
 - <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> **[Multi-Modal Chatbot](./multimodal-apps/multi-modal-chatbot/)** - Chatbot that understands text, images, and video
 - 🎭 **[Hedra Live Avatars Demo](./multimodal-apps/hedra-live-avatars-demo/)** - Live avatar chat and video generation with Hedra API
 - 💕 **[Talk to AI Girlfriend](./multimodal-apps/talk-to-ai-girlfriend/)** - Interactive AI girlfriend with live avatar, voice, and real-time conversation
+- 👗 **[STIL.AI — Fashion Design](./multimodal-apps/stil-ai-fashion-design/)** - Describe clothing in text, AI generates the design in 15 seconds. Free to try.
 
 # 🗓️ [Development Roadmap](./Roadmap.md)
 

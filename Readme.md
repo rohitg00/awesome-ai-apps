@@ -35,6 +35,7 @@ Sophisticated AI agents with complex reasoning and multi-step workflows:
 ### 👥 [Multi-Agent Teams](./multi-agent-teams/)
 Coordinated AI teams working together on complex tasks:
 - <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> **[Content Creation Team](./multi-agent-teams/content-creation-team/)** - Content creation team with specialized agents
+- <img src="https://cdn.simpleicons.org/ollama" alt="Ollama logo" width="20" height="20"> **[AAA AGI Squad](https://github.com/pokidov/aaaagi)** - Autonomous AI Agent squad ecosystem with native desktop & mobile apps, local LLM support, MCP server, and live meeting notes ([aaaai.me](https://aaaai.me/))
 
 ### 📚 [RAG Applications](./rag-applications/)
 RAG applications with knowledge bases:

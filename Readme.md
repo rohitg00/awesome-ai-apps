@@ -67,6 +67,7 @@ Track our progress and upcoming releases to see what we're building next!
 
 This collection was inspired by and references patterns from:
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [Signbee](https://github.com/signbee/mcp) - Document signing infrastructure for AI agents with MCP server, [agent skill](https://github.com/signbee/skill), and REST API ([signb.ee](https://signb.ee)) for two-party PDF e-signatures and SHA-256 audit certificates.
 
 ## 📄 License
 
